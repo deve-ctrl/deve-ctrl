@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deve-ctrl
 - 👀 I’m interested in learning to code with Java
-- 🌱 I’m currently learning Java, C# (at school) and PHP (at school) 
+- 🌱 I’m currently learning Java, JavaScript, C# (at school) and PHP (at school) 
 - 💞️ I’m looking to collaborate on: no plans at the moment 
 - 📫 How to reach me: instagram: xsametxx1406
 
